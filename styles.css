@@ -7,17 +7,7 @@
 
 }
 
-.menu a {
-  color: #fff;
-  text-decoration: none;
-}
-
-.menu a:hover {
-  color: rgba(0, 0, 0, 0);
-}
-
 /* header w. menu */
-
 
 .logotype img {
   height: 200px;
@@ -44,6 +34,15 @@
   padding-right: 30px;
   font-family: 'Amatic SC', cursive;
 
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  color: rgba(0, 0, 0, 0);
 }
 
 /* header end */
@@ -362,14 +361,14 @@ form {
     font-size: 20px;
     display: inline;
     list-style-type: none;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 4px;
+    padding-right: 4px;
     font-family: 'Amatic SC', cursive;
   }
 
 /* Header image */
 #cactusheader {
-  padding-top: 15px;
+  padding-top: 30px;
 }
 
 
